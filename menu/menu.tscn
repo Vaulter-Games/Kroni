@@ -1,0 +1,62 @@
+[gd_scene format=2]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -0.078743
+margin_top = -0.078743
+margin_right = -0.0787354
+margin_bottom = -0.0787354
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="playButton" type="Button" parent="."]
+margin_left = 30.0
+margin_top = 35.0
+margin_right = 500.122
+margin_bottom = 67.3674
+rect_pivot_offset = Vector2( 272.683, 15.5 )
+text = "PLAY PLACEHOLDER"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="multiplayerButton" type="Button" parent="."]
+margin_left = 30.7071
+margin_top = 74.598
+margin_right = 500.83
+margin_bottom = 106.965
+rect_pivot_offset = Vector2( 272.683, 15.5 )
+text = "MULTIPLAYER PLACEHOLDER"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="optionsButton" type="Button" parent="."]
+margin_left = 30.0
+margin_top = 115.0
+margin_right = 500.0
+margin_bottom = 148.731
+rect_pivot_offset = Vector2( 272.683, 15.5 )
+text = "OPTIONS PLACEHOLDER"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 44.9239
+margin_top = 251.32
+margin_right = 259.924
+margin_bottom = 269.32
+rect_rotation = 31.0
+rect_scale = Vector2( 3, 3 )
+text = "ill put news or something here"
+
+[node name="Label2" type="Label" parent="."]
+margin_left = 537.853
+margin_top = 186.452
+margin_right = 694.853
+margin_bottom = 200.452
+rect_scale = Vector2( 3, 3 )
+text = "cool character goes here"
